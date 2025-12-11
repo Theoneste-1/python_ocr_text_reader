@@ -43,7 +43,7 @@ pip install opencv-python numpy Pillow pytesseract PyQt5
 
 ### How to Run
 
-1. Save the script as `ocr_scanner.py`
+1. Save the script as `index.py`
 2. Open terminal/command prompt in the folder
 3. Run:
 ```bash
